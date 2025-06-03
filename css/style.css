@@ -1,5 +1,25 @@
 body {
   background-color: darkgrey;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+  text-align: center;
+}
+
+p,
+span {
+  color: lightgray;
 }
 
 #lorem-head {
