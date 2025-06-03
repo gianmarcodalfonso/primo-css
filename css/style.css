@@ -1,6 +1,10 @@
 body {
   background-color: darkgrey;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+span {
+  font-weight: 800;
 }
 
 h1,
@@ -13,12 +17,15 @@ h6 {
 }
 
 h1 {
-  font-size: 32px;
+  /* font-size: 32px; */
+  /* font-size: 2em; */
+  /* font-size: 2rem; */
   text-align: center;
 }
 
 p,
 span {
+  text-align: justify;
   color: lightgray;
 }
 
